@@ -1,6 +1,6 @@
 <h1>ExpNo 8 : Solve Cryptarithmetic Problem,a CSP(Constraint Satisfaction Problem) using Python</h1> 
-<h3>Name: ARAVIND SAMY.P</h3>
-<h3>Register Number/Staff Id: 212222230011</h3>
+<h3>Name: VISHAL GOWTHAMAN K R</h3>
+<h3>Register Number: 212221230123</h3>
 <H3>Aim:</H3>
 <p>
     To solve Cryptarithmetic Problem,a CSP(Constraint Satisfaction Problem) using Python
